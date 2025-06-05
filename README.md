@@ -43,7 +43,7 @@ A data analysis project exploring the global impact of the COVID-19 pandemic usi
 
 ---
 
-## 📌 Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy)
 - Visualization: Matplotlib, Seaborn, Plotly
@@ -60,14 +60,14 @@ A data analysis project exploring the global impact of the COVID-19 pandemic usi
 
 ---
 
-## ✅ Project Status
+## Project Status
 
-✅ Complete — actively maintained for additions & improvements.  
+Complete — actively maintained for additions & improvements.  
 📬 Suggestions welcome — feel free to fork, raise issues, or submit pull requests!
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Hiba Alavi**  
 _Data Analyst & Aspiring Data Scientist_  
